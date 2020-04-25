@@ -1,0 +1,27 @@
+WELL NAME,OBJECTID,Shape,TDS in mg/L,Cl in mg/L,deltaoxygen1618 in ppm,deuteriuminppm,sodiummgperl,Br in mg/L,groupGP,groupClark,He in CC stp g-1 (10^-8),classiWell,lat,long,"Middle of screened interval, depth in feet",d13C in % / source ?,clark 14C in pmc,Neil_81Kr_in_pMKr,81Kr age in years from Neil,Velocity in m/year based on Neil,Neil 4He,Velocity in m/year from the model,Velocity in m/day from the model,Residence time in years from the model,Residence time in years from my estimation using Darcy Law,Velocity in m/year from my estimation using Darcy Law,14C age in years from Clark et al. (1998),Velocity in m/year based on Clark (1998),DistanceRecharge_km,contact name,contact info,owner name ,address,comment,CanSample
+"town of coolidge, south well",3,Point,422,11.7,-12.8,-88,44.7,0.094,,,,,38.04045,-102.01544,305,,,,,,,5.84,0.016,18800,13600,8.08,,,123.5,"Brian Boyd, city administrator of Syracuse city hall",6203844080 / bloydbryan@gmail.com,,,"well north and well south, sampled by A.Dutton, possibility to also sample well from Syracuse city (tds 890mg/l, paleoriver*5 but not brackish)",Yes
+"town of leoti, dakota well",6,Point,1041.55,62.6,-12.075,-88.5,367,0.8,,,,,38.48143,-101.36194,940,,,,,,,11.68,0.032,15800,19200,10.42,,,200,,,,,,Yes
+carlos robert stock well,8,Point,961.45,168,-11.775,-91.25,344,0.63,,,,,38.73643,-100.44769,655,,,,,,,9.855,0.027,27500,,,,,278,,,,,,Yes
+"rangers feeders feedlot, well4",9,Point,937,374,-12.95,-93,376,0.41,,,,,38.474236,-100.394249,860,,,,,,,10.22,0.028,24900,28500,9.47,,,267,,,,,,Yes
+Dakota #2-Hays,20,Point,2087,575,-12,-92,833,0,GP1,,,GP1,38.879178,-99.32677,792,,,,,,,12.045,0.033,30300,42100,8.67,,,375,,,,,,Yes
+"KGS 53 /town of springfield, well 11",40,Point,377,25.1,-11.415,-85,13.85,0.32,,Clark 1,4.04,Clark 1,37.36,-102.61,247,,81.1,,,,,,,,,,400,80,36,,,,,,
+"KGS 54 /town of springfield, well 9",41,Point,502,113.2,-10.685,-75,45.775,0.199,,Clark 1,4.85,Clark 1,37.38,-102.62,120,,74.4,,,,,,,,,,1100,29.09,36.6,,,,,,
+KGS 57 / commanche national grassland windmill,42,Point,235,7.75,-9.82,-66.75,6.9,0.079,,Clark 1,,Clark 1,37.28,-102.95,230,,75,,,,,,,,,,1000,4,8.5,,,,,,
+"KGS 58 / town of walsh, well3",43,Point,824,49.19,-9.415,-68,105.05,0.39,,Clark 1,6.58,Clark 1,37.37,-102.29,200,,72.4,,,,,,,,,,1300,47.69,61,,,,,,
+"KGS 59 /town of walsh, well2",44,Point,536,22.25,-9.7,-66,66.7,0.137,,Clark 1,6.75,Clark 1,37.37,-102.28,140,,68.2,,,,,,,,,,1800,34.4,60,,,,,,
+KGS 69,45,Point,,30.8,-8.9,-61,19.1,,,Clark 1,4.54,Clark 1,38.45,-101.36,,,70.9,,,,,,,,,,1500,123.3,199,,,,,,
+KGS 52,46,Point,,20.2,-10.9,-79,82.99,,,Clark 2,38,Clark 2,37.5,-102.02,,,17.9,,,,,,,,,,12900,6.6,89,,,,,,
+KGS 55 / colorado state univeristy experiment station,47,Point,577,23.7,-9.11,-103.75,103.95,0.4,,Clark 2,49.4,Clark 2,37.35,-102.77,235,,27.8,,,,,,,,,,9200,1.95,26,,,,,,
+KGS 56 /town of prichet,48,Point,193,2.54,-11.495,-80,14.7,0.043,,Clark 2,10.1,Clark 2,37.38,-102.85,340,,40.6,,,,,,,,,,6100,1.97,22.5,,,,,,
+KGS 60/rangeland windmill in prowers county,49,Point,329,7.475,-9.185,-60,23.74,0.085,,Clark 2,10.3,Clark 2,37.85,-102.16,387,,37.5,,,,,,,,,,6800,12.06,100.3,,,,,,
+"KGS 61/irrigation well, double J hog farm",50,Point,377,9.21,-10.02,-69,33.585,0.154,,Clark 2,,Clark 2,37.83,-102.37,500,,44.6,,,,,,,,,,5300,13.21,84.6,,,,,,
+KGS 62 /town of vilas,51,Point,290,5.36,-12.2,-88,41.125,0.07,,Clark 2,29.7,Clark 2,37.36,-102.46,274,,21.6,,,,,,,,,,11300,3.98,47.5,,,,,,
+KGS 63,52,Point,,12.1,-13,-93,45.75,,,Clark 2,40.3,Clark 2,38.05,-102.11,,110,35.7,,,,,,,,,,7200,14.4,119,,,,,,
+KGS 68,53,Point,,16.7,-13.2,-99,172,,,Clark 3,167,Clark 3,38.25,-101.95,,312,1.2,,,,,,,,,,35600,3.65,140,,,,,,
+KGS 70,54,Point,,63.46,-12.1,-90,367,,,Clark 3,318,Clark 3,38.45,-101.36,,360,0.5,77,86000,2.32,209,,,,,,42100,4.51,199,,,,,,
+KGS 71,55,Point,,299.9,-12.5,-95,352,,,Clark 3,573,Clark 3,38.45,-100.4,,282,14.9,74,99500,2.56,329,,,,,,14400,17.36,264,,,,,,
+KGS 72,56,Point,,168,-11.8,-97,345,,,Clark 3,890,Clark 3,38.75,-100.44,,213,5.6,,,,,,,,,,22500,12,278,,,,,,
+KGS 73,57,Point,,278,-12,-87,382,,,Clark 3,661,Clark 3,38.75,-99.96,,195,0.2,,,,,,,,,,51400,5.8,319,,,,,,
+KGS 74,58,Point,,365.2,-11.9,-88,480.5,,,Clark 3,1090,Clark 3,38.8,-99.76,,144,1.3,,,,,,,,,,34700,9.4,337,,,,,,
+KGS 75,59,Point,,1365,-11.7,-88,1159,,,Clark 3,3630,Clark 3,38.95,-99.31,,154,1.7,84,57600,6.33,616,,,,,,32500,11.38,380,,,,,,
+Clay Center ,72,Point,1000,,,,,,,,,,39.37694,-97.12474,,65,,,,,,,,,197000,3.09,,,572,,,,,,Yes

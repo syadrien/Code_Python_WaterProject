@@ -49,7 +49,7 @@ os.chdir("C:/Users/Reika/Dropbox/RessourceWaterMidcontinent/Well_Data")
 
 width = 0.3
 
-data = pd.read_csv("compilation_Dakota_well_1_27_20.csv",encoding='cp1252')
+data = pd.read_csv("compilation_Dakota_well_3-20-20.csv",encoding='cp1252')
 data=data.set_index('Well name ')
 data=data.sort_values(by=['DistanceRecharge_km'],ascending =False)
 

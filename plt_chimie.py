@@ -25,7 +25,7 @@ os.chdir("C:/Users/Reika/Dropbox/RessourceWaterMidcontinent/Well_Data")
 # C:/Users/Reika/Dropbox/RessourceWaterMidcontinent/quality_dakota
 
 
-data = pd.read_csv("AgragationDataTable_v3.csv")
+data = pd.read_csv("AgragationDataTable_v5.csv")
 
 plt.plot(data['Cl in mg/L'],data['Br in mg/L']/data['Cl in mg/L']*1e4,'c.',label='All Data', markersize=12)
 
